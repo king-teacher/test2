@@ -30,8 +30,4 @@ public class Demo {
 
 	}
 
-	public void test2() {
-		System.out.println("hello");
-	}
-
 }
