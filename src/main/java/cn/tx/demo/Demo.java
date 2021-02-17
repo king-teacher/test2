@@ -18,4 +18,8 @@ public class Demo {
 
 		System.out.println("hello world");
 	}
+
+	public void sayGood() {
+		System.out.println("good");
+	}
 }
