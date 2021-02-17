@@ -19,17 +19,7 @@ public class Demo {
 		System.out.println("hello world");
 	}
 
-	public void sayGood() {
-		System.out.println("good");
-	}
-
-
 	public void test1() {
-
-	}
-
-
-	public void test2() {
 
 	}
 }
