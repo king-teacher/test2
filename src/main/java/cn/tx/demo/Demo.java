@@ -16,10 +16,13 @@ public class Demo {
 	public void printStr() {
 		System.out.println("java 666");
 
-		System.out.println("hello world");
 	}
 
 	public void sayGood() {
 		System.out.println("good");
+	}
+
+	public void test2() {
+
 	}
 }
