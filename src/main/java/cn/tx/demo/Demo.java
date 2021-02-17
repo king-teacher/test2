@@ -22,4 +22,10 @@ public class Demo {
 	public void sayGood() {
 		System.out.println("good");
 	}
+
+
+	public void test1() {
+
+	}
+
 }
