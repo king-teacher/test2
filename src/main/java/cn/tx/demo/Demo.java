@@ -15,5 +15,6 @@ public class Demo {
 
 	public void printStr() {
 
+		System.out.println("hello world");
 	}
 }
