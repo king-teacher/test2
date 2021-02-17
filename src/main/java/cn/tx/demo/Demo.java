@@ -29,4 +29,9 @@ public class Demo {
 	public void test3() {
 
 	}
+
+	public void test2() {
+		System.out.println("hello");
+	}
+
 }
