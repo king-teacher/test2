@@ -18,8 +18,15 @@ public class Demo {
 
 	}
 
-	public void test1() {
+	public void sayGood() {
+		System.out.println("good");
+	}
+
+	public void test2() {
 
 	}
 
+	public void test3() {
+
+	}
 }
