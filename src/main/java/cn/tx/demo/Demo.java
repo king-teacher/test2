@@ -30,4 +30,7 @@ public class Demo {
 		System.out.println("test3");
 	}
 
+	public void test4() {
+
+	}
 }
