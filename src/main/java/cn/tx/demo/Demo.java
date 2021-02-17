@@ -33,6 +33,5 @@ public class Demo {
 	public void test4() {
 		System.out.println("world");
 
-		System.out.println("hello");
 	}
 }
