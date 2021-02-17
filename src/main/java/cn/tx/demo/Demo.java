@@ -14,6 +14,7 @@ public class Demo {
 	}
 
 	public void printStr() {
+		System.out.println("java 666");
 
 		System.out.println("hello world");
 	}
