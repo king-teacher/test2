@@ -22,7 +22,4 @@ public class Demo {
 
 	}
 
-	public void test2() {
-
-	}
 }
